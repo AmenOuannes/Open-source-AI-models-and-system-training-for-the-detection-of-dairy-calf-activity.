@@ -1,0 +1,1 @@
+# Open-source-IA-models-and-system-training-for-the-detection-of-dairy-calf-activity.
